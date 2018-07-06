@@ -1,1 +1,3 @@
-# habgatchi
+# habagotchi
+
+Tomogatchi but with plants.
